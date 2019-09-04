@@ -3,9 +3,5 @@ How are you?
 
 Updated line
 
-asf
 
 fff
-
-
-changed 4 commit
